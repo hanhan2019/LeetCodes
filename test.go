@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	a := "bDbfaDDbbb"
+	a := "bDbfaasdasdDDbbb"
 	fmt.Println(a)
 
 }
